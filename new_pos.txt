@@ -1,0 +1,143 @@
+// Adverb of time
+now	AVT_PRE_CON
+yesterday	AVT_PAS_SIM
+tomorrow	AVT_FU_SIM
+ago	AVT_PAS_SIM
+frequently	AVT_PRE_SIM
+generally	AVT_PRE_SIM
+normally	AVT_PRE_SIM
+occasionally	AVT_PRE_SIM
+often	AVT_PRE_SIM
+regularly	AVT_PRE_SIM
+sometimes	AVT_PRE_SIM
+usually	AVT_PRE_SIM
+yet	AVT_PRE_PER
+ever	AVT_PRE_PER
+still	AVT_PRE_CON
+last	AVT_PAS_SIM
+always	AVT_PRE_SIM
+already	AVT_PRE_PER
+annually	AVT_PRE_SIM
+constantly	AVT_PRE_SIM
+eventually	AVT_PRE_SIM
+formerly	AVT_PRE_SIM
+fortnightly	AVT_PRE_SIM
+hourly	AVT_PRE_SIM
+immediately	AVT_PAS_SIM
+infrequently	AVT_PRE_SIM
+last	AVT_PAS_SIM
+lately	AVT_PAS_SIM
+monthly	AVT_PRE_SIM
+normally	AVT_PRE_SIM
+never	AVT_PRE_SIM
+next	AVT_FU_SIM
+often	AVT_PRE_SIM
+ocassionally	AVT_PRE_SIM
+quarterly	AVT_PRE_SIM
+rarely	AVT_PRE_SIM
+regularly	AVT_PRE_SIM
+recently	AVT_PRE_PER
+seldom	AVT_PRE_SIM
+sometimes	AVT_PRE_SIM
+since	AVT_PRE_PER
+soon	AVT_FU_SIM
+still	AVT_PRE_CON
+usually	AVT_PRE_SIM
+weekly	AVT_PRE_SIM
+yearly	AVT_PRE_SIM
+everyday	AVT_PRE_SIM
+everyweek	AVT_PRE_SIM
+everynight	AVT_PRE_SIM
+everymonth	AVT_PRE_SIM
+everyyear	AVT_PRE_SIM
+later	AVT_LATER
+then	AVT_THEN
+berfore 	AVT_BEFORE
+after 	AVT_AFTER
+previously	AVT_PREVIOS
+every	AVT_EVERY
+
+// Article
+a	ATC
+an	ATC
+the	ATC
+
+// Quantity word
+many	QNT
+much	QNT
+few	QNT
+little	QNT
+
+// Demonstratives
+This	DEM
+That	DEM
+These	DEM
+Those	DEM
+
+// If 
+if	IF
+
+// Too
+too	TOO
+
+// other
+others	OTH
+another	OTH
+other	OTH
+
+// Please
+please	PLS
+pleases	PLS
+
+// BE
+be	BE
+is	BE
+am	BE
+are	BE
+'m	BE
+'re	BE
+
+
+//BED
+was	BED
+were	BED
+
+//BEG
+being	BEING
+
+//BEN
+been	BEEN
+
+// HAVE
+has	HAV
+have	HAV
+
+//HAD
+had	HAD
+
+//DO
+do	DO
+does	DO
+
+//DID
+did	DID
+
+//will
+will	WLL
+'ll	WLL
+shal	WLL
+
+//THAN
+than	THAN
+
+//MORE
+more	MORE
+most	MOST
+
+//every
+everyone	ONE
+someone	ONE
+everything	ONE
+something	ONE
+thing	ONE
+things	ONE
